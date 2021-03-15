@@ -18,9 +18,9 @@ a survey, a user can choose out of the available surveys. Each survey is multipl
 choice, so the user can select one answer, and hit submit, thus making the results
 viewable.
 
-[Link to Client Repo](https://github.com/SEI-06/Survey-Client)
-[Link to deployed Client](https://sei-06.github.io/Survey-Client/)
-[Link to deployed API](https://morning-reef-04926.herokuapp.com)
+[Link to Client Repo](https://github.com/derekmurphy1993/Survey-Client/)
+[Link to deployed Client](https://derekmurphy1993.github.io/Survey-Client/)
+[Link to deployed API](https://agile-retreat-78337.herokuapp.com)
 
 
 ## Background
